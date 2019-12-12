@@ -1,2 +1,5 @@
 new test file, adding some content
 adding a new line to this file
+
+adding another line
+adding one more line
