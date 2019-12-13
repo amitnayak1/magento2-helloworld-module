@@ -7,3 +7,7 @@ php bin/magento setup:di:compile<br>
 
 
 added few tags
+
+Image attachment test
+
+![Alt text](img.png?raw=true "Title")
